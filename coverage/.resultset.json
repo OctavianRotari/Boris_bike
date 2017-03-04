@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/rob/Projects/boris-bikes/spec/bike_spec.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/spec/bike_spec.rb": [
         1,
         null,
         1,
@@ -30,7 +30,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/lib/bike.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/lib/bike.rb": [
         1,
         1,
         22,
@@ -50,7 +50,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/spec/docking_station_spec.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/spec/docking_station_spec.rb": [
         1,
         null,
         1,
@@ -172,7 +172,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/lib/docking_station.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/lib/docking_station.rb": [
         1,
         null,
         1,
@@ -218,7 +218,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/spec/feature_spec.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/spec/feature_spec.rb": [
         1,
         1,
         1,
@@ -241,14 +241,14 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/lib/garage.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/lib/garage.rb": [
         1,
         1,
         11,
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/lib/van.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/lib/van.rb": [
         1,
         1,
         5,
@@ -269,7 +269,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/spec/garage_spec.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/spec/garage_spec.rb": [
         1,
         null,
         1,
@@ -287,7 +287,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/spec/helpers_spec.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/spec/helpers_spec.rb": [
         1,
         null,
         1,
@@ -308,7 +308,7 @@
         null,
         null
       ],
-      "/home/rob/Projects/boris-bikes/spec/van_spec.rb": [
+      "/Users/octavianrotari/Projects/boris-bikes/spec/van_spec.rb": [
         1,
         null,
         1,
@@ -350,6 +350,6 @@
         null
       ]
     },
-    "timestamp": 1454363450
+    "timestamp": 1488644708
   }
 }
